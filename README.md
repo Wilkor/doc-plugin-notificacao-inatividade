@@ -18,7 +18,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
   
   ![image](https://user-images.githubusercontent.com/34819624/199086067-e964ceaf-74c6-4489-aea8-b3934b9d3ea3.png)
   
-   No meu caso, esta configurado em 1 minuto, ou seja, quando o cliente ficar 1 minuto sem responder o agente/especialista, o sistema enviará a 1° mensagem para ele e a cada 2 minutos vai enviando as proximas mensagens configuradas. Exemplo:
+   No meu caso, esta configurado em 1 minuto, ou seja, quando o cliente ficar 1 minuto sem responder a primeira interação do agente/especialista, o sistema enviará a 1° mensagem para ele e a cada 2 minutos vai enviando as proximas mensagens configuradas. Exemplo:
    
    - 1° minuto envia a primeira mensagem;
    - 2° minuto envia a segunda mensagem;
