@@ -18,12 +18,11 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
   
   ![image](https://user-images.githubusercontent.com/34819624/199086067-e964ceaf-74c6-4489-aea8-b3934b9d3ea3.png)
   
-   No meu caso, esta configurado em 1 minuto, ou seja, quando o cliente ficar 1 minuto sem responder o agente/especialista, o sistema enviará a 1° mensagem para ele.
-   e assim por diante. Por padrão,  podemos enviar 3 mensagem, e vai seguir essa regra:
+   No meu caso, esta configurado em 1 minuto, ou seja, quando o cliente ficar 1 minuto sem responder o agente/especialista, o sistema enviará a 1° mensagem para ele e a cada 2 minutos vai enviando as proximas mensagens configuradas. Exemplo:
    
    - 1° minuto envia a primeira mensagem;
    - 2° minuto envia a segunda mensagem;
-   - 3° envia a mensagem e encerra o ticket.
+   - 4° minuto envia a ultima mensagem e encerra o ticket.
    
    **OBS:** Lembrando que você pode configurar a quantidade de minutos do jeito que você quiser, nesse exemplo está em 1 minuto só para simplificar a explicação.
    
