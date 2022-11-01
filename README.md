@@ -7,7 +7,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
 
  - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
  - Procure por **Notificação de inatividade** e clique em ativar (Instalar em seu bot Router/Roteador);
- - Após instalado o plugin, siga os passos abaixo;
+ - Após a instalação da extensão, siga os passos abaixo;
  
  # Como configurar?
  
