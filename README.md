@@ -25,6 +25,8 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
    - 2° minuto envia a segunda mensagem;
    - 3° envia a mensagem e encerra o ticket.
    
+   **OBS:** Lembrando que você pode configurar a quantidade de minutos do jeito que você quiser, nesse exemplo está em 1 minuto só para simplificar a explicação.
+   
   Em nosso segundo passo de configuraçaõ, esse já na própria extensão, você terá que selecionar o seu chabot de atendimento e depois adicionar as 3 mensagem para serem enviadas ao seu cliente quando o mesmo estiver em inatividade, como meu exemplo aqui👇🏻
   
   ![image](https://user-images.githubusercontent.com/34819624/199088206-416deeca-015d-4e88-9929-594496d64164.png)
