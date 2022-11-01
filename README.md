@@ -31,6 +31,10 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
   
   ![image](https://user-images.githubusercontent.com/34819624/199088206-416deeca-015d-4e88-9929-594496d64164.png)
 
+  O quarto processo é instalar a extensão abaixo em seu navegador Chrome:
+  
+  https://chrome.google.com/webstore/detail/plugin-desk/bmjjlaomahkobdcmgnbihomlipaoolnh?hl=pt-BR
+  
   
   Realizado os passos acima, seu chatbot está pronto para notificar seus clientes!
   
