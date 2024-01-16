@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-notificacao-inatividade/assets/34819624/bc272546-a8ca-49cf-a5f3-c997573b0bea)
 
 # Como utilizar a extensão Notificação de Inatividade!
 
