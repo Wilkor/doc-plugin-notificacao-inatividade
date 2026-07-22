@@ -9,9 +9,8 @@ A extensão **Notificação de Inatividade** monitora chamados em atendimento hu
 ---
 
 ### 1. Vídeo demonstrativo
-Assista à demonstração prática diretamente na interface do seu BlipDesk após a ativação da extensão.
+Esta extensão não possui vídeos ainda.
 
-*(Confira os alertas automáticos e encerramento por inatividade do cliente no seu ambiente Blip)*
 
 ### 2. Introdução
 A extensão **Notificação de Inatividade** evita que atendentes fiquem com tickets travados aguardando respostas de clientes inativos. Ela automatiza o envio de cobranças amigáveis e realiza o encerramento do chamado se o cliente não interagir dentro do tempo estipulado.
