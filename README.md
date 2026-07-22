@@ -1,44 +1,69 @@
-
 ![icone_github](https://github.com/Wilkor/doc-plugin-notificacao-inatividade/assets/34819624/bc272546-a8ca-49cf-a5f3-c997573b0bea)
 
-# Como utilizar a extensão Notificação de Inatividade!
+# Como enviar alertas automáticos de inatividade para clientes no BlipDesk com Notificação de Inatividade
 
-Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o plugin:
+A extensão **Notificação de Inatividade** monitora chamados em atendimento humano no BlipDesk e envia réguas de até 3 mensagens de alerta automáticas para clientes que demoram a responder, encerrando o ticket caso a inatividade persista.
 
- - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
- - Procure por **Notificação de inatividade** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
- - Após a instalação da extensão, siga os passos abaixo;
- 
- # Como configurar?
- 
-  - Primeiramente, você deve deve ir em seu chatbot onde esta seu atendimento humano
-  - Clicar em Atendimento -> configurações gerais
-  - Navegar até **Tempo máximo de resposta do cliente**
-  - Em tempo de primeiro alerta, você coloca em quantos minutos o cliente deve receber uma mensagem quando ele estiver em inatividade.
-  
-  ![image](https://user-images.githubusercontent.com/34819624/199086067-e964ceaf-74c6-4489-aea8-b3934b9d3ea3.png)
-  
-   No meu caso, esta configurado em 1 minuto, ou seja, quando o cliente ficar 1 minuto sem responder a primeira interação do agente/especialista, o sistema enviará a 1° mensagem, e a cada 2 minutos as proximas mensagens serão enviadas conforme configuradas. Exemplo:
-   
-   - 1° minuto envia a primeira mensagem;
-   - 2° minuto envia a segunda mensagem;
-   - 4° minuto envia a ultima mensagem e encerra o ticket.
-   
-   **OBS:** Lembrando que você pode configurar a quantidade de minutos do jeito que você quiser, nesse exemplo está em 1 minuto só para simplificar a explicação.
-   
-  Em nosso segundo passo de configuraçaõ, esse já na própria extensão, você terá que selecionar o seu chabot de atendimento e depois adicionar as 3 mensagem para serem enviadas ao seu cliente quando o mesmo estiver em inatividade, como meu exemplo aqui👇🏻
-  
-  ![image](https://user-images.githubusercontent.com/34819624/199088206-416deeca-015d-4e88-9929-594496d64164.png)
+**Palavras-chave:** Notificação de Inatividade, Inatividade do Cliente, Alerta BlipDesk, Encerramento de Ticket, SLA de Resposta, Régua de Inatividade
 
-  O quarto processo é instalar a extensão abaixo em seu navegador Chrome:
-  
-  https://chrome.google.com/webstore/detail/plugin-desk/bmjjlaomahkobdcmgnbihomlipaoolnh?hl=pt-BR
-  
-  
-  Realizado os passos acima, seu chatbot está pronto para notificar seus clientes!
-  
-   
-  
-  Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
- 
- Email: contato@pontoparse.net
+---
+
+### 1. Vídeo demonstrativo
+Assista à demonstração prática diretamente na interface do seu BlipDesk após a ativação da extensão.
+
+*(Confira os alertas automáticos e encerramento por inatividade do cliente no seu ambiente Blip)*
+
+### 2. Introdução
+A extensão **Notificação de Inatividade** evita que atendentes fiquem com tickets travados aguardando respostas de clientes inativos. Ela automatiza o envio de cobranças amigáveis e realiza o encerramento do chamado se o cliente não interagir dentro do tempo estipulado.
+
+### 3. Funcionalidades
+A extensão **Notificação de Inatividade** oferece as seguintes funcionalidades:
+- **Envio Sequencial de 3 Mensagens de Alerta**: Envio de mensagens personalizadas em intervalos configuráveis.
+- **Encerramento Automático de Ticket**: Encerra o chamado caso o cliente não responda à última mensagem de alerta.
+- **Integração com SLA do Desk**: Conexão com a configuração "Tempo máximo de resposta do cliente" do Blip.
+- **Extensão Google Chrome**: Monitoramento nativo no navegador do atendente.
+
+A extensão **Notificação de Inatividade** é suportada nos seguintes canais: **BlipDesk / Chrome Extension**.
+
+### 4. Instalação e Configuração
+Após ativar a extensão através da Blip Store, ela deve ser instalada no bot Router/Roteador.
+
+#### Passo 1 — Configurar o tempo no chatbot de atendimento:
+1. No Blip, acesse o chatbot onde fica o seu Atendimento Humano;
+2. Vá em **Atendimento -> Configurações Gerais**;
+3. Navegue até **Tempo máximo de resposta do cliente**;
+4. Em tempo de primeiro alerta, defina em quantos minutos o cliente deve receber a mensagem quando estiver inativo:
+
+![image](https://user-images.githubusercontent.com/34819624/199086067-e964ceaf-74c6-4489-aea8-b3934b9d3ea3.png)
+
+#### Exemplo de Intervalo de Envio:
+Se configurado para 1 minuto (para fins de teste/exemplo):
+- **1º minuto**: Envia a primeira mensagem de alerta;
+- **2º minuto**: Envia a segunda mensagem de alerta;
+- **4º minuto**: Envia a última mensagem e encerra o ticket.
+
+*OBS: Você pode configurar a quantidade de minutos da forma que desejar.*
+
+#### Passo 2 — Configurar as 3 mensagens na extensão:
+1. Abra a extensão **Notificação de inatividade** no Blip;
+2. Selecione o chatbot de atendimento;
+3. Cadastre as 3 mensagens que serão enviadas sequencialmente ao cliente inativo:
+
+![image](https://user-images.githubusercontent.com/34819624/199088206-416deeca-015d-4e88-9929-594496d64164.png)
+
+#### Passo 3 — Instalar no Google Chrome:
+Instale a extensão no navegador Chrome de cada atendente através do link:  
+https://chrome.google.com/webstore/detail/plugin-desk/bmjjlaomahkobdcmgnbihomlipaoolnh?hl=pt-BR
+
+Após concluir os passos, o chatbot estará pronto para notificar e encerrar atendimentos ociosos.
+
+### 5. Exemplos de Uso
+Um cliente abre um chamado e não responde à pergunta do atendente. Após 1 minuto sem resposta, a extensão envia a mensagem 1. Permanecendo o silêncio, a mensagem 2 é enviada aos 2 minutos e a mensagem 3 aos 4 minutos, finalizando o chamado com sucesso para liberar a fila.
+
+### 6. Suporte
+Em caso de dúvidas sobre a configuração da extensão ou réguas de inatividade, entre em contato conosco:
+
+- **E-mail**: contato@wconsulting.tech
+- **Telefone/WhatsApp**: 1191628-2384
+
+
